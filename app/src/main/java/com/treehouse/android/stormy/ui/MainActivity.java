@@ -296,4 +296,7 @@ public class MainActivity extends AppCompatActivity
         AlertDialogFragment dialog = new AlertDialogFragment();
         dialog.show(getFragmentManager(), "error_dialog");
     }
+
+
+
 }
